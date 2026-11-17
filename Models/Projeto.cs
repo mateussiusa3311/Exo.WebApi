@@ -12,4 +12,4 @@ namespace Exo.WebApi.Models
         public string Area { get; set; }
         public bool Status { get; set; }
     }
-} 
+}
