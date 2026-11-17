@@ -815,3 +815,4 @@ C:\Users\Windows\OneDrive\Desktop\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebA
 C:\Users\Windows\OneDrive\Desktop\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.pdb
 C:\Users\Windows\OneDrive\Desktop\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 C:\Users\Windows\OneDrive\Desktop\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\ref\Exo.WebApi.dll
+C:\Users\Windows\OneDrive\Desktop\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
